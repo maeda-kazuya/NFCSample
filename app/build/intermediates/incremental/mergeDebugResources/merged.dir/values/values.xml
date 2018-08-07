@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_large">50dp</dimen>
+    <dimen name="padding_medium">20dp</dimen>
+    <dimen name="padding_small">10dp</dimen>
+    <string name="action_beam">AndroidBeam</string>
+    <string name="action_readwrite">NFCの読取/書込</string>
+    <string name="action_settings">NFC設定</string>
+    <string name="app_name">Chapter03</string>
+    <string name="beam_success">送信しました</string>
+    <string name="error_connect">タグとの通信に失敗しました</string>
+    <string name="error_empty_uri">書き込むデータを入力してください</string>
+    <string name="error_format">書き込むデータを入力してください</string>
+    <string name="error_nfc_disable">NFCが無効になっています\n設定画面でNFCを有効にしてください</string>
+    <string name="error_nfc_nosupport">NFCが搭載されていない端末です</string>
+    <string name="hint_write">ここに入力</string>
+    <string name="label_beam">Android Beam</string>
+    <string name="label_read">読み取り</string>
+    <string name="label_recieve">受信データを表示</string>
+    <string name="label_write">書き込み</string>
+    <string name="write_failure">書き込むことができませんでした</string>
+    <string name="write_success">書き込みました</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

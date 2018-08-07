@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chapter03</string>
+    <string name="action_readwrite">NFCの読取/書込</string>
+    <string name="action_beam">AndroidBeam</string>
+    <string name="action_settings">NFC設定</string>
+    <string name="label_read">読み取り</string>
+    <string name="label_write">書き込み</string>
+    <string name="label_recieve">受信データを表示</string>
+    <string name="label_beam">Android Beam</string>
+    <string name="hint_write">ここに入力</string>
+    <string name="write_success">書き込みました</string>
+    <string name="write_failure">書き込むことができませんでした</string>
+    <string name="beam_success">送信しました</string>
+    
+    <string name="error_nfc_disable">NFCが無効になっています\n設定画面でNFCを有効にしてください</string>
+    <string name="error_nfc_nosupport">NFCが搭載されていない端末です</string>
+    <string name="error_empty_uri">書き込むデータを入力してください</string>
+    <string name="error_connect">タグとの通信に失敗しました</string>
+    <string name="error_format">書き込むデータを入力してください</string>
+
+</resources>

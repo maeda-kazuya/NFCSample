@@ -1,0 +1,4 @@
+#Tue Aug 07 15:18:19 JST 2018
+base.0=/Users/siam/project/android/JDD/Sample/Chapter3/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex
